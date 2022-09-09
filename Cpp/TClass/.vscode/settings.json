@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.dat": "csv (pipe)",
-        "*.csv": "csv (semicolon)",
-        "*Makefile*": "makefile",
-        "iostream": "cpp"
-    }
-}
