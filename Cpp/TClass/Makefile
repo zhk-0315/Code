@@ -1,7 +1,7 @@
 TARGET = Robot
 
-CC = /usr/bin/gcc
-CPP = /usr/bin/g++
+CC = /opt/llvm_bin/clang
+CPP = /opt/llvm_bin/clang++
 
 COMPILE_OPT = -g -Wall
 C_COMPILE_OPT = $(COMPILE_OPT) -lstdc++
